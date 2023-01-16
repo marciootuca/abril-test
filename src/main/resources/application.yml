@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3310/abril?characterEncoding=UTF-8&useTimezone=true&serverTimezone=UTC
+    username: admin
+    password: admin123
